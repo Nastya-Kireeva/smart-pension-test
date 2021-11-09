@@ -1,0 +1,7 @@
+Documentation:
+  Enabled: false
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/data_collector_spec.rb'
+    - 'spec/runner_spec.rb'
+    - 'spec/validator/file_validator_spec.rb'
